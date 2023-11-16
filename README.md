@@ -1,2 +1,2 @@
-# nextjsApp
+# NextjsApp
 Web Full-Stack Development
